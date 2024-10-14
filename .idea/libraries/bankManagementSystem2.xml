@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="bankManagementSystem2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/bankManagementSystem/out/artifacts/bankManagementSystem_jar4/bankManagementSystem.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
